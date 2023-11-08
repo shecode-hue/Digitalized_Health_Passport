@@ -7,7 +7,7 @@ This system was developed at a hackathon to digitize health passports in disadva
 This repository contains the following components:
 
 1. QR Code Scanner and Generator
-2. Website
+2. Website ([find out more about this dashboard](https://codedthemes.com/item/datta-able-bootstrap-lite/))
 3. ERP System ([Link to the ERP System Repository](https://github.com/slic-rick/mobil-health/tree/main))
 4. API and Database
 
