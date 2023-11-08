@@ -48,7 +48,13 @@ You can access the ERP system in two ways:
 1. Access the code directly from the repository: [ERP System Repository](https://github.com/slic-rick/mobil-health/tree/main).
 2. Simply click "Connect to Management System" on the sidebar of the website.
 
-![ERP System](images_of_erp_system.png)
+![WhatsApp Image 2023-11-08 at 10 58 43](https://github.com/shecode-hue/Digitalized_Health_Passport/assets/73517078/285a0188-cbbc-422a-bad3-96ec5f34df97)
+
+![WhatsApp Image 2023-11-08 at 10 58 44](https://github.com/shecode-hue/Digitalized_Health_Passport/assets/73517078/5e0901da-95d2-4516-a079-1f0e2ac78e28)
+
+![WhatsApp Image 2023-11-08 at 10 58 44 (1)](https://github.com/shecode-hue/Digitalized_Health_Passport/assets/73517078/aabc02a7-5279-42f9-9c1b-0e126cb61e47)
+
+![WhatsApp Image 2023-11-08 at 10 58 45](https://github.com/shecode-hue/Digitalized_Health_Passport/assets/73517078/5a9b6dae-2128-45f4-9c1a-b9ce4eb79fe3)
 
 ## Setting Up the Database
 
