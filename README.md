@@ -23,7 +23,7 @@ git stati
    flutter run
    ```
 # QR Code Scanner
-![Screenshot 2023-11-08 094906](https://github.com/shecode-hue/health_card_scanner/assets/73517078/bded312d-5aeb-4902-bb5c-b10139a7b112)
+![Screenshot 2023-11-08 094906](https://github.com/shecode-hue/Digitalized_Health_Passport/assets/73517078/018f27f7-b05c-4319-ad0a-76a4d1871e19)
 
 ## Website
 
@@ -34,11 +34,11 @@ To run the website, follow these steps:
 
 # Website Dashboard 
 
-![Screenshot 2023-11-08 103944](https://github.com/shecode-hue/health_card_scanner/assets/73517078/6b06a592-8f09-4b4c-82d9-81db4e8b36d4)
+![Screenshot 2023-11-08 103944](https://github.com/shecode-hue/Digitalized_Health_Passport/assets/73517078/97dc9bab-5dd6-4b43-ab3f-3dcc3e2b1c1e)
 
 # Patient Authorization
 
-![Screenshot 2023-11-08 104033](https://github.com/shecode-hue/health_card_scanner/assets/73517078/8f52b820-3984-4dcd-9d16-2cd3a2158cf9)
+![Screenshot 2023-11-08 104033](https://github.com/shecode-hue/Digitalized_Health_Passport/assets/73517078/d85900da-45dc-445b-83e6-98640107677a)
 
 
 ## Accessing the ERP System
